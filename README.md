@@ -12,7 +12,9 @@ So, cache-path-from-shell use cache mechanism make sure
 no matter how many times you call it.
 
 ### Installation:
-Put cache-path-from-shell.el to your load-path.
+Install [exec-path-from-shell](https://github.com/purcell/exec-path-from-shell) first.
+
+Then put cache-path-from-shell.el to your load-path.
 The load-path is usually ~/elisp/.
 It's set in your ~/.emacs like this:
 
